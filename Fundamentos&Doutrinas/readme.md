@@ -4,14 +4,14 @@
 
 Roteiro
 
-    - DIREITO NATURAL E POSITIVO
-        - Direito Natural
-        - Direito Positivo
+- DIREITO NATURAL E POSITIVO    
+    - Direito Natural
+    - Direito Positivo
     
-    - RAMIFICAÇÃO DO DIREITO
-        - Direito Público
-        - Direito Privado
-        - Direito Social
+- RAMIFICAÇÃO DO DIREITO
+    - Direito Público
+    - Direito Privado
+    - Direito Social
 
 
 
