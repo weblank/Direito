@@ -5,7 +5,7 @@
 ### Roteiro
 
 - DIREITO NATURAL E POSITIVO    
-    - [Direito Natural](#Direito Natural)
+    - [Direito Natural](./Fundamentos&Doutrinas/readme.md#Direito-Natural)
     - Direito Positivo
     
 - RAMIFICAÇÃO DO DIREITO
