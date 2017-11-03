@@ -4,14 +4,14 @@
 
 ### Roteiro
 
-- DIREITO NATURAL E POSITIVO    
-    - [Direito Natural](./Fundamentos&Doutrinas/readme.md#Direito-Natural)
-    - Direito Positivo
+- [DIREITO NATURAL E POSITIVO](./readme.md#direito-natural-e-direito-positivo)    
+    - [Direito Natural](./readme.md#direito-natural)
+    - [Direito Positivo](./readme.md#direito-positivo)
     
-- RAMIFICAÇÃO DO DIREITO
-    - Direito Público
-    - Direito Privado
-    - Direito Social
+- [RAMIFICAÇÃO DO DIREITO](./readme.md#ramificacao-do-direito)
+    - [Direito Público](./readme.md#direito-publico)
+    - [Direito Privado](./readme.md#direito-privado)
+    - [Direito Social](./readme.md#direito-social)
 
 
 
