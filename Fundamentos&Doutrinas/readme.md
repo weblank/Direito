@@ -5,7 +5,7 @@
 ### Roteiro
 
 - DIREITO NATURAL E POSITIVO    
-    - Direito Natural
+    - [Direito Natural](#Direito Natural)
     - Direito Positivo
     
 - RAMIFICAÇÃO DO DIREITO
@@ -30,7 +30,7 @@ O que isso quer dizer ? Em resumo, existem normas de valores (princípios) que n
 
 O Direito positivo é a tentativa de tornar a ciência do direito fundamentada somente na razão, por isso, ficou conhecido como direito livre de valor. A base do direito positivo foi desenvolvida por Hans Kelsen no livro teoria pura do direito. Exemplificando, as legislação que nada mais é que normas escritas, é uma das realizações do direito positivo. É no direito positivo que surge o conceito de construção escalonada que vamos estudar + adiante.
 
-**é importante esclarecer que hoje em dia a maioria dos Estados não adotam apenas uma das doutrinas do direito, existe uma mistura entre o direito positivo e direito natural, sendo que alguns Estados pendem mais para o direito positivo e outros para o direito natural dependendo da construção histórica do direito do Estado.** 
+__é importante esclarecer que hoje em dia a maioria dos Estados não adotam apenas uma das doutrinas do direito, existe uma mistura entre o direito positivo e direito natural, sendo que alguns Estados pendem mais para o direito positivo e outros para o direito natural dependendo da construção histórica do direito do Estado.__ 
 
 
 ## Ramificação do Direito
