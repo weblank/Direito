@@ -4,6 +4,10 @@
 
 ## Roteiro
 
+- [DEFINIÇÕES](./readme.md#definições)
+    -[Fundamentos e Doutrinas](./readme.md#fundamentos-e-doutrinas)
+
+
 - [DIREITO NATURAL E POSITIVO](./readme.md#direito-natural-e-direito-positivo)    
     - [Direito Natural](./readme.md#direito-natural)
     - [Direito Positivo](./readme.md#direito-positivo)
@@ -13,6 +17,17 @@
     - [Direito Privado](./readme.md#direito-privado)
     - [Direito Social](./readme.md#direito-social)
 
+
+## Definições
+
+Antes de iniciarmos nos estudos dos fundamentos e doutrinas do direito, precisamos definir o que estes são: o que são os Fundamentos e Doutrinas ?
+
+### Fundamentos e Doutrinas
+
+Os fundamentos e doutrinas, no âmbito do direito, consiste nos estudos que tem como objetivo entender, organizar e explicar todos os temas relativos ao Direito. A doutrina pode ser considerada como fonte do direito apesar de não ser consenso entre a classe cientifica e, em geral, não ser considerada fonte do direito. Em algumas leituras podemos encontrar que o que chamamos de doutrina *jurídica é chamda* de *direito científico*. 
+
+
+Neste tópico vamos nos concentrar nos diferentes pilares que juntos formam a base dos diferentes *direitos*, **sim**! isso mesmo que você leu, ao longo da história existiram diferentes interpretações sobre o que é, para o que serve e como usar o direito, assim, com este estudo conseguiremos ter uma visão ampla quando mergulharmos nas diferentes ramificações do direito contemplanto dos três elementos do direito: fato (Sociologia do Direito), valor (Filosofia do direito) e norma (Ciência do Direito - visão puramente da razão).
 
 
 ## Direito Natural e Direito Positivo
@@ -30,7 +45,7 @@ O que isso quer dizer ? Em resumo, existem normas de valores (princípios) que n
 
 O Direito positivo é a tentativa de tornar a ciência do direito fundamentada somente na razão, por isso, ficou conhecido como direito livre de valor. A base do direito positivo foi desenvolvida por Hans Kelsen no livro teoria pura do direito. Exemplificando, as legislação que nada mais é que normas escritas, é uma das realizações do direito positivo. É no direito positivo que surge o conceito de construção escalonada que vamos estudar + adiante.
 
-__é importante esclarecer que hoje em dia a maioria dos Estados não adotam apenas uma das doutrinas do direito, existe uma mistura entre o direito positivo e direito natural, sendo que alguns Estados pendem mais para o direito positivo e outros para o direito natural dependendo da construção histórica do direito do Estado.__ 
+*é importante esclarecer que hoje em dia a maioria dos Estados não adotam apenas uma das doutrinas do direito, existe uma mistura entre o direito positivo e direito natural, sendo que alguns Estados pendem mais para o direito positivo e outros para o direito natural dependendo da construção histórica do direito do Estado.* 
 
 
 ## Ramificação do Direito
