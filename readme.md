@@ -1,4 +1,4 @@
-## A CIÊNCIA DO DIREITO
+## ESTUDOS SOBRE DIREITO
 
 
 [logo]: https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjKzvOKo6PXAhVDTJAKHWnUCyAQjRwIBw&url=https%3A%2F%2Fwww.estudarfora.org.br%2Fmestrado-em-direito-no-exterior-dicas-essenciais-para-a-candidatura%2F&psig=AOvVaw0zZBHRihSofjDwiy11RM56&ust=1509828226214004 "Ciência do Direito"
@@ -33,4 +33,4 @@ Conto com os comentários e sugestões de vocês nas issues para melhorar o dese
 
 ## License
 
-MIT License. Copyright 2009-2016 Plataformatec. http://plataformatec.com.br
+MIT License. Copyright 2017 Weblank
