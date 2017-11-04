@@ -5,7 +5,7 @@
 ## Roteiro
 
 - [DEFINIÇÕES](./readme.md#definições)
-    -[Fundamentos e Doutrinas](./readme.md#fundamentos-e-doutrinas)
+    - [Fundamentos e Doutrinas](./readme.md#fundamentos-e-doutrinas)
 
 
 - [DIREITO NATURAL E POSITIVO](./readme.md#direito-natural-e-direito-positivo)    
@@ -20,7 +20,7 @@
 
 ## Definições
 
-Antes de iniciarmos nos estudos dos fundamentos e doutrinas do direito, precisamos definir o que estes são: o que são os Fundamentos e Doutrinas ?
+Antes de iniciarmos nos estudos, precisamos definir o que são: Fundamentos e Doutrinas
 
 ### Fundamentos e Doutrinas
 
