@@ -20,6 +20,11 @@
     - [Direito Material](./readme.md#direito-material)
     - [Direito Processual](./readme.md#direito-processual)
 
+- [FONTES DO DIREITO](./readme.md#fontes-do-direito)
+    - [Fontes Materiais e Fontes Formais](./readme.md#fontes-materiais-e-fontes-formais)
+    - [Fontes Formais - Common law e Civil Law](./readme.md#fontes-formais-common-law-e-civil-law)
+    - [Fontes secundárias do Direito](./readme.md#fontes-secundarias-do-direito)
+
 - [RAMIFICAÇÃO DO DIREITO](./readme.md#ramificação-do-direito)
     - [Direito Público](./readme.md#direito-público)
     - [Direito Privado](./readme.md#direito-privado)
@@ -28,10 +33,6 @@
 
 ## EM BREVE!
 
-- [FONTES DO DIREITO](./readme.md)
-    - [Fontes Materiais e Fontes Formais](./readme.md)
-    - [Fontes Formais - Common law E Civil Law](./readme.md)
-    - [Fontes secundárias do Direito](./readme.md)
 
 - [NORMAS COGENTES E DISPOSITIVAS](./readme.md)
     - [Normas Cogentes ou de ordem pública](./readme.md)
@@ -124,6 +125,37 @@ Exemplos: Código Civil, Códigos Penais entre outros.
 
 O direito processual, adjetivo ou formal é o conjunto de normas que estabelecem aforma e meios para o exerício dos direitos dos direitos objetivos.   
 Exemplos: Código de Processo Civil, Código de Processo Penal entre outros.
+
+## Fontes do Direito
+
+Na literatura do direito encontraremos diferentes posicionamentos quanto quais devem ser consideradas fontes do direito então vou tratar das mais conhecidas.
+
+### Fontes Materiais e Fontes Formais
+
+A fonte material é o estudo filosófico e sociológico dos fatos históricos que motivaram e condicionaram o aparecimento e as transformações das regras do direito, ou seja, o estudo da origem do direito. Já as fontes formais estão relacionadas a resposta da pergunta de como o direito se manifesta e basicamente são divididas em duas categorias, common law e civil law.
+
+### Fontes Formais - Common law e Civil Law
+
+As fontes formais do direito, como visto acima, estão divididas em duas categorias, common law e civil law.   
+
+Common law - Tem como principal fonte do direito o costume que se manifesta através dos precedentes (decisões judiciais) também é conhecida como direito consuetudinário (direito costumeiro).    
+origiem: vem tradição jurídica anglo-saxônica que se desenvolveu na inglaterra e depois em suas colônias assim chegando ao Estados Unidos.   
+
+Civil law - tem como princípio as leis positivadas ou seja os grandes código legislativos,   
+origem: vem da tradição jurídica da europa continental também conhecida como tradição romano-germânica e chegou ao Brasil através de Portugal.   
+
+
+### Fontes secundárias do Direito
+
+As fontes secundárias ou chamadas de fontes informais do direito estão divididas em duas categorias: doutrinas e jurisprudência
+
+Doutrinas: são os conceitos e interpretações encontrados na literatura do direito, sendo assim, as doutrinas são consideradas fontes informais do direito já que podem influenciar nas decisões do judiciário. 
+
+Jurisprudência: a jurisprudência é o entendimento obtido, no mesmo sentido, de um conjunto de decisões de um tribunal, historicamente, a jurisprudência não foi admitida pela ideologia estática da tradição de *civil law* como fonte formal do direito, porém, hoje em dia temos o conceito de ideologia dinâmica o que permitiu a jurisprudência ser categorizada como fonte formal do direito.
+*Hoje em dia, diante do novo código do processo civil a jurisprudência tem um novo significado sendo agora considerado uma fonte formal*
+
+
+*a fontes primárias são as leis e as fontes secundárias são as doutrinas e jurisprudências*
 
 ## Ramificação do Direito
 
