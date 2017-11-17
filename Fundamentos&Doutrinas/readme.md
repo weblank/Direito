@@ -17,10 +17,8 @@
     - [Direito Subjetivo](./readme.md#direito-objetivo)
 
 - [DIREITO MATERIAL E PROCESSUAL](./readme.md#direito-material-e-processual)
-    - [Direito Material]
-    - [Direito Processual]
-
-
+    - [Direito Material](./readme.md#direito-material)
+    - [Direito Processual](./readme.md#direito-processual)
 
 - [RAMIFICAÇÃO DO DIREITO](./readme.md#ramificação-do-direito)
     - [Direito Público](./readme.md#direito-público)
@@ -30,42 +28,42 @@
 
 ## EM BREVE!
 
-- [FONTES DO DIREITO]
-    - [Fontes Materiais e Fontes Formais]
-    - [Fontes Formais - Common law E Civil Law]
-    - [Fontes secundárias do Direito]
+- [FONTES DO DIREITO](./readme.md)
+    - [Fontes Materiais e Fontes Formais](./readme.md)
+    - [Fontes Formais - Common law E Civil Law](./readme.md)
+    - [Fontes secundárias do Direito](./readme.md)
 
-- [NORMAS COGENTES E DISPOSITIVAS]
-    - [Normas Cogentes ou de ordem pública]
-    - [Normas Dispositivas]
+- [NORMAS COGENTES E DISPOSITIVAS](./readme.md)
+    - [Normas Cogentes ou de ordem pública](./readme.md)
+    - [Normas Dispositivas](./readme.md)
 
-- [ESTADO DE DIREITO E ESTADO DEMOCRÁTICO DE DIREITO]
-    - [Estado de Direito]
-    - [Estado democrático de Direito]
+- [ESTADO DE DIREITO E ESTADO DEMOCRÁTICO DE DIREITO](./readme.md)
+    - [Estado de Direito](./readme.md)
+    - [Estado democrático de Direito](./readme.md)
 
-- [ESTADO CONSTITUCIONAL]
+- [ESTADO CONSTITUCIONAL](./readme.md)
 
-- [CONSTITUCIONALIDADE FORMAL E CONSTITUCIONALIDADE MATERIAL]
-    - [Constitucionalidade Formal]
-    - [Constitucionalidade Material]
+- [CONSTITUCIONALIDADE FORMAL E CONSTITUCIONALIDADE MATERIAL](./readme.md)
+    - [Constitucionalidade Formal](./readme.md)
+    - [Constitucionalidade Material](./readme.md)
 
-- [PRINCÍPIOS E REGRAS]
-    - [Princípios]
-    - [Regras]
+- [PRINCÍPIOS E REGRAS](./readme.md)
+    - [Princípios](./readme.md)
+    - [Regras](./readme.md)
 
-- [OMISSÃO INCOSTITUCIONAL]
+- [OMISSÃO INCOSTITUCIONAL](./readme.md)
 
-- [TEORIA DA NORMAL JURÍDICA]
+- [TEORIA DA NORMAL JURÍDICA](./readme.md)
 
-- [TIPOS DE REGRAS]
+- [TIPOS DE REGRAS](./readme.md)
 
-- [APLICAÇÃO DAS REGRAS]
+- [APLICAÇÃO DAS REGRAS](./readme.md)
 
-- [PRINCÍPIO DA LEGALIDADE]
+- [PRINCÍPIO DA LEGALIDADE](./readme.md)
 
-- [TEORIA DO ORDENAMENTO JURÍDICO]
+- [TEORIA DO ORDENAMENTO JURÍDICO](./readme.md)
 
-- [CONSTRUÇÃO ESCALONADA DA ORDEM JURÍDICA]
+- [CONSTRUÇÃO ESCALONADA DA ORDEM JURÍDICA](./readme.md)
 
 
 ## Definições
@@ -77,7 +75,7 @@ Antes de iniciarmos nos estudos, precisamos definir o que são: Fundamentos e Do
 Os fundamentos e doutrinas, no âmbito do direito, consiste nos estudos que tem como objetivo entender, organizar e explicar todos os temas relativos ao Direito. A doutrina pode ser considerada como fonte do direito apesar de não ser consenso entre a classe cientifica e, em geral, não ser considerada fonte do direito. Em algumas leituras podemos encontrar que o que chamamos de doutrina *jurídica é chamda* de *direito científico*. 
 
 
-Neste tópico vamos nos concentrar nos diferentes pilares que juntos formam a base dos diferentes *direitos*, **sim**! isso mesmo que você leu, ao longo da história existiram diferentes interpretações sobre o que é, para o que serve e como usar o direito, assim, com este estudo conseguiremos ter uma visão ampla quando mergulharmos nas diferentes ramificações do direito contemplanto dos três elementos do direito: fato (Sociologia do Direito), valor (Filosofia do direito) e norma (Ciência do Direito - visão puramente da razão).
+Neste tópico vamos nos concentrar nos diferentes pilares que juntos formam a base dos diferentes *direitos*, **sim**! isso mesmo que você leu, ao longo da história existiram diferentes interpretações sobre o que é, para o que serve e como usar o direito, assim, com este estudo, conseguiremos ter uma visão ampla quando mergulharmos nas diferentes ramificações do direito contemplando os três elementos do direito: fato (Sociologia do Direito), valor (Filosofia do direito) e norma (Ciência do Direito - visão puramente da razão).
 
 
 ## Direito Natural e Direito Positivo
@@ -122,7 +120,7 @@ O direito material ou substantivo e o direito processual, adjetivo ou formal sã
 O direito material ou substantivo é o conjunto de normas que regulam os fatos jurídicos, ou seja as regras abstratas criadas para garantir os direitos e deveres da socidade.    
 Exemplos: Código Civil, Códigos Penais entre outros.
 
-## Direito Processual
+### Direito Processual
 
 O direito processual, adjetivo ou formal é o conjunto de normas que estabelecem aforma e meios para o exerício dos direitos dos direitos objetivos.   
 Exemplos: Código de Processo Civil, Código de Processo Penal entre outros.
