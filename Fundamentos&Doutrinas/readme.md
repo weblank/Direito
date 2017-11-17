@@ -11,11 +11,61 @@
 - [DIREITO NATURAL E POSITIVO](./readme.md#direito-natural-e-direito-positivo)    
     - [Direito Natural](./readme.md#direito-natural)
     - [Direito Positivo](./readme.md#direito-positivo)
-    
+
+- [DIREITO OBJETIVO E SUBJETIVO](./readme.md#direito-objetivo-e-direito-subjetivo)
+    - [Direito Objetivo](./readme.md#direito-objetivo)
+    - [Direito Subjetivo](./readme.md#direito-objetivo)
+
+- [DIREITO MATERIAL E PROCESSUAL](./readme.md#direito-material-e-processual)
+    - [Direito Material]
+    - [Direito Processual]
+
+
+
 - [RAMIFICAÇÃO DO DIREITO](./readme.md#ramificação-do-direito)
     - [Direito Público](./readme.md#direito-público)
     - [Direito Privado](./readme.md#direito-privado)
     - [Direito Social](./readme.md#direito-social)
+
+
+## EM BREVE!
+
+- [FONTES DO DIREITO]
+    - [Fontes Materiais e Fontes Formais]
+    - [Fontes Formais - Common law E Civil Law]
+    - [Fontes secundárias do Direito]
+
+- [NORMAS COGENTES E DISPOSITIVAS]
+    - [Normas Cogentes ou de ordem pública]
+    - [Normas Dispositivas]
+
+- [ESTADO DE DIREITO E ESTADO DEMOCRÁTICO DE DIREITO]
+    - [Estado de Direito]
+    - [Estado democrático de Direito]
+
+- [ESTADO CONSTITUCIONAL]
+
+- [CONSTITUCIONALIDADE FORMAL E CONSTITUCIONALIDADE MATERIAL]
+    - [Constitucionalidade Formal]
+    - [Constitucionalidade Material]
+
+- [PRINCÍPIOS E REGRAS]
+    - [Princípios]
+    - [Regras]
+
+- [OMISSÃO INCOSTITUCIONAL]
+
+- [TEORIA DA NORMAL JURÍDICA]
+
+- [TIPOS DE REGRAS]
+
+- [APLICAÇÃO DAS REGRAS]
+
+- [PRINCÍPIO DA LEGALIDADE]
+
+- [TEORIA DO ORDENAMENTO JURÍDICO]
+
+- [CONSTRUÇÃO ESCALONADA DA ORDEM JURÍDICA]
 
 
 ## Definições
@@ -47,6 +97,35 @@ O Direito positivo é a tentativa de tornar a ciência do direito fundamentada s
 
 *é importante esclarecer que hoje em dia a maioria dos Estados não adotam apenas uma das doutrinas do direito, existe uma mistura entre o direito positivo e direito natural, sendo que alguns Estados pendem mais para o direito positivo e outros para o direito natural dependendo da construção histórica do direito do Estado.* 
 
+
+## Direito Objetivo e Direito Subjetivo
+
+Os Direitos objetivo e subjetivo são determinados de acordo com o nível de abstração do assunto abordado.
+
+
+### Direito Objetivo
+
+O direito objetivo é a abstração no formato de normas jurídicas mantidas pelo Estado escritas ou não escritas, sendo no segundo caso, sinônimo do *direito positivo*. Na escrita jurídica é possível encontrar o termo *jus est norma agendi* que significa, norma de agir e refere-se ao direito objetivo.
+
+
+### Direito Subjetivo
+
+O direito subjetivo ou direito do sujeito é a situação jurídica, consagrada por uma norma. Na escrita jurídica é possível encontrar o termo *jus est facultas agendi* que significa, faculdade de agir (faculdade de exigir a prestação ou abstenção de atos) e refere-se ao direito subjetivo. O direito do sujeito é contraposto do dever jurídico sendo um sempre acompanhado do outro.
+
+
+## Direito Material e Processual
+
+O direito material ou substantivo e o direito processual, adjetivo ou formal são conceitos simples do direito porém abstratos o que dificulta, inicialmente, dificulta o entendimento. 
+
+### Direito Material
+
+O direito material ou substantivo é o conjunto de normas que regulam os fatos jurídicos, ou seja as regras abstratas criadas para garantir os direitos e deveres da socidade.    
+Exemplos: Código Civil, Códigos Penais entre outros.
+
+## Direito Processual
+
+O direito processual, adjetivo ou formal é o conjunto de normas que estabelecem aforma e meios para o exerício dos direitos dos direitos objetivos.   
+Exemplos: Código de Processo Civil, Código de Processo Penal entre outros.
 
 ## Ramificação do Direito
 

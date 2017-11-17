@@ -22,6 +22,7 @@ O projeto é estabelicido conforme os tópicos abaixo de acordo com o desenvolvi
 - Direito Comercial
 - Direito Trabalhista
 
+- Glossário do Direito
 
 
 ## Contribuindo
